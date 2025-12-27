@@ -90,22 +90,22 @@ The project follows a modern **Decoupled Architecture** ensuring high scalabilit
 To maintain a consistent look, all screenshots are scaled to a standard width.
 
 ### **1. Welcome & Discovery**
-<img src="image.png" width="700" alt="Welcome Page" />
+<img src="frontend/src/assets/image.png" width="700" alt="Welcome Page" />
 
 ### **2. AI Auto Recommendation**
-<img src="image-1.png" width="700" alt="AI Recommendations" />
+<img src="frontend/src/assets/image-1.png" width="700" alt="AI Recommendations" />
 
 ### **3. AI Smart Fill**
-<img src="image-3.png" width="700" alt="AI Scan" />
+<img src="frontend/src/assets/image-3.png" width="700" alt="AI Scan" />
 
 ### **4. AI Smart Registration**
-<img src="image-4.png" width="700" alt="Registration Form" />
+<img src="frontend/src/assets/image-4.png" width="700" alt="Registration Form" />
 
 ### **5. Admin Management Dashboard**
-<img src="image-5.png" width="700" alt="Admin Panel" />
+<img src="frontend/src/assets/image-5.png" width="700" alt="Admin Panel" />
 
 ### **6. User Profile & Bookings**
-<img src="image-6.png" width="700" alt="User Profile" />
+<img src="frontend/src/assets/image-6.png" width="700" alt="User Profile" />
 
 ---
 
