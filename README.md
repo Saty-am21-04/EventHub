@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/logo.png" width="150" height="150"  alt="EventHub Logo" />
+  <img src="frontend/src/assets/logo.png" width="150" height="150"  alt="EventHub Logo" />
 </p>
 
 
