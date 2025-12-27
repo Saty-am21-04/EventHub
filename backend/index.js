@@ -19,7 +19,10 @@ const eventRoutes = require('./routes/eventRoutes');
 const app = express();
 
 // --- MIDDLEWARE ---
-app.use(cors()); 
+app.use(cors({
+    origin: "https://eventhub-satyam.netlify.app" 
+})); 
+
 app.use(express.json()); 
 
 const apiLimiter = rateLimit({
