@@ -25,7 +25,8 @@ A comprehensive, full-stack application designed to modernize the organization a
 
 ## **🔗 Deployment Link**
 
- **EventHub** : [https://eventhub-satyam.netlify.app/](https://eventhub-satyam.netlify.app/) 
+ **EventHub-FrontEnd** : [https://eventhub-satyam.netlify.app/](https://eventhub-satyam.netlify.app/) 
+ **EventHub-BackEnd** : [https://event-hub-backend-y0y7.onrender.com/](https://event-hub-backend-y0y7.onrender.com/) 
 
 ---
 
